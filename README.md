@@ -16,7 +16,7 @@ Ao executar o projeto IronPdfPoc, você verá o seguinte console:
 
 Escolhendo o tipo de conversão no console, você estará definindo o **ConversionType**, que será usado para construir o objeto de conversão correto no **ConversionFactory**.
 
-Insira um breakpoint no **Program.cs**, na linha onde a **ConversionFactory** será utilizada, para verificar após a escolha o fluxo do programa. 
+Insira um breakpoint no **Program.cs**, na linha onde a **ConversionFactory** será utilizada, para verificar o fluxo do programa. 
 
 # Arquivos de saída
 Após a execução de todos os tipos de conversão, os seguintes arquivos de saída são gerados, na pasta onde se encontra o **.exe** da aplicação:
